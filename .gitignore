@@ -109,6 +109,10 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+alegro_venv/
+alegro_venv
+.alegro_venv
+.alegro_venv
 
 # Spyder project settings
 .spyderproject
@@ -127,3 +131,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#VS code stuff
+.vscode/
